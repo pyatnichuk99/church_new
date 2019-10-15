@@ -475,7 +475,7 @@ body {
     -webkit-align-items: center;
         -ms-flex-align: center;
             align-items: center;
-    min-height: 280px;
+    min-height: 260px;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
