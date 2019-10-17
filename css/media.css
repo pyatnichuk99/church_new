@@ -119,6 +119,8 @@
   margin-top: 100px; }
 
 @media screen and (max-width: 991px) {
+  .paginator {
+    margin-bottom: 30px; }
   .open__class {
     display: -webkit-box;
     display: -webkit-flex;
@@ -144,6 +146,14 @@
   .burger-mobile {
     display: block; } }
 
+@media screen and (min-width: 1200px) {
+  .publicity-facebook {
+    height: 260px; } }
+
+@media screen and (max-width: 1200px) {
+  .block-new__button {
+    padding: 8px 0; } }
+
 @media screen and (max-width: 400px) {
   .article-block__button {
     display: -webkit-box;
@@ -166,7 +176,6 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    opacity: .9;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
